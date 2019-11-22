@@ -8,7 +8,7 @@ module.exports = {
 // this referes to atlas db account https://cloud.mongodb.com/user#/atlas/login
 
 // user_name            is the database-user's name, admins and users are managed in mongo shell or in this case directly in atlas mongo db login page
-// user_password        is Jack's password to access the database
+// user_password        is user_name's password to access the database
 // cluster_name   is the cluster which contains databases (you create this e.g. in atlas mongo db user, or with mongo shell)
 // db_name          is the database name
 //
