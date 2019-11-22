@@ -1,3 +1,6 @@
+/config/keys_empty.js 
+must be renamed keys.js and filled with proper db credentials
+
 to launch server: (from server folder)npm run server
 to launch client (from client folder): npm start 
 to launch both server and client in single shell: npm run dev
